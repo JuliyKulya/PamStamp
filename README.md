@@ -12,3 +12,5 @@ The main functionalities of the project can be summarized as follows:
 - Graphical Representation: Using the matplotlib library, the code plots three different graphs: velocity, major strain, and minor strain. The graphs are displayed in a separate window, with each line plotted in a different color. A legend is also included to distinguish the plotted lines.
 
 - User Interaction: The application includes buttons for opening the file dialog and initiating the calculations.
+
+To run this example navigate to the project folder and execute ``` python main.py ```
